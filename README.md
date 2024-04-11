@@ -1,20 +1,14 @@
 # KnightHyde
 
-## What is this?
-
 This repo contains absolutely no code. It's just a lazy way for me to edit some game tips for the mobile game Knighthood in VSCode with markdown and keep them synced where people can easily access them. 
 
 If you're here because you play Knighthood, keep reading. 
 
-Or if you want to jump straight to the information links, there's this:
-
-**[Index of Pages](./0-Pages.md)**
+Or if you want to jump straight to the information links, there's this **[Index of Pages](./0-Pages.md)**
 
 If you see something I've written that's wrong or not as good as it could be, feel free to file [an Issue](/KnightHyde/issues). 
 
-...
-
-## Introduction
+## Introduction ... what is this?
 
 This set of information files is for the mobile game 'Knighthood'. 
 
@@ -49,3 +43,9 @@ I started in Knighthood in Feb 2024 and started this info dump 2 months later. I
 * I've just about caught up with the other friends in my guild so we're all still under level 60 without having cleared the end zones
 
 *NOTE: I'm not 100% Free to Play as I have bought around $25 worth of gems and a couple of the better event passes ... but ... I am no whale and will be trying to give tips anyone can accomplish*
+
+## What next?
+
+You read all that? Thanks. 
+
+Get the actual content from the **[Index of Pages](./0-Pages.md)**
