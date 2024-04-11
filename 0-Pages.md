@@ -4,7 +4,7 @@
 
 Discord has a 2K char limit so these will be posted as threads.
 
-* I. **[KnightHood UI tips](https://discord.com/channels/1153421955840622713/1227505360571465749/1227762729960472646)** *(battery, graphics, other UI items)*
+* I. **[KnightHood UI tips](./1-UI-tips.md))** *(battery, graphics, other UI items)*
 * II. **[Chests]()** *(which to open in bulk, chests for gold)*
 * III. **[Spending Gems]()** *(just my early recommendations)*
 * IV. **[Roaming Monsters]()** *(farming specific rewards)*
