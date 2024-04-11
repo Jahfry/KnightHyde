@@ -1,7 +1,7 @@
 ![image of a cartoon knight](./images/knighthyde1.256sharp.webp) 
 # KnightHyde 
 
-[[🡅 up to Index](./0-Pages.md)] [[🡄 back: Game UI/Menus](./2-UI.md)] [[🡆 next: Chests](./3-chests.md)]
+[[🡅 up to Index](./0-Pages.md)] [[🡄 back: Game UI/Menus](./1-performance.md)] [[🡆 next: Chests](./3-chests.md)]
 
 ## I. KnightHood Game UI (in-game menus and tips)
 
@@ -13,4 +13,4 @@ TBD:
     * Merchants sometimes hide things
     * Hunting for Minions
 
-[[🡅 up to Index](./0-Pages.md)] [[🡄 back: Game UI/Menus](./2-UI.md)] [[🡆 next: Chests](./3-chests.md)]
+[[🡅 up to Index](./0-Pages.md)] [[🡄 back: Game UI/Menus](./1-performance.md)] [[🡆 next: Chests](./3-chests.md)]
