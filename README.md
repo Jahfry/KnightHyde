@@ -1,5 +1,7 @@
 # KnightHyde
 
+![image of a cartoon knight](./images/knighthyde1.256sharp.webp)
+
 This repo contains absolutely no code. It's just a lazy way for me to edit some game tips for the mobile game Knighthood in VSCode with markdown and keep them synced where people can easily access them. 
 
 If you're here because you play Knighthood, keep reading. 
