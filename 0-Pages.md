@@ -5,12 +5,15 @@
 
 ***IMPORTANT NOTE:*** *I'm not an authority on this stuff, and got a lot from other sources (see "Links/Credits"). If you find something elsewhere that seems better for you, give it a shot. Report back if it works! And things could change based on whatever Midoki does in the future.*
 
-* I. **[KnightHood UI tips](./1-UI-tips.md))** *(battery, graphics, other UI items)*
-* II. **[Chests]()** *(which to open in bulk, chests for gold)*
-* III. **[Spending Gems]()** *(just my early recommendations)*
-* IV. **[Roaming Monsters]()** *(farming specific rewards)*
-* V. **[Gauntlets]()** (primer info, low level gauntlet, etc)
-* VI. **[Gear]()** *(some about regular gear but focusing towards Mythic Rift gear)*
-* VII. **[Heroes]()** *(early heroes, costs, picking a type, farming shards, endgame gear builds)*
-* VIII. **[Guild Wars]()** *(defend? Minmaxing playtimes, fighting)*
-* IX. **[Links/Credits]()** *(you definitely want to look at these)*
+* I. **[Phone Performance](./1-performance.md)** *(battery, graphics)*
+
+TBD:
+* II. **[KnightHood UI tips]()** *(in-game menus and tips)*
+* III. **[Chests]()** *(which to open in bulk, chests for gold)*
+* IV. **[Spending Gems]()** *(just my early recommendations)*
+* V. **[Roaming Monsters]()** *(farming specific rewards)*
+* VI. **[Gauntlets]()** (primer info, low level gauntlet, etc)
+* VII. **[Gear]()** *(some about regular gear but focusing towards Mythic Rift gear)*
+* VIII. **[Heroes]()** *(early heroes, costs, picking a type, farming shards, endgame gear builds)*
+* IX. **[Guild Wars]()** *(defend? Minmaxing playtimes, fighting)*
+* X. **[Links/Credits]()** *(you definitely want to look at these)*

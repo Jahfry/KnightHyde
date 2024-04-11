@@ -3,7 +3,7 @@
 
 [[🡅 up to Index](./0-Pages.md)]
 
-## I. KnightHood UI tips (battery, graphics, other UI items)
+## I. KnightHood UI tips (battery, graphics)
 
 ### A. Settings for graphics/music
 
@@ -63,15 +63,4 @@ These are ideas on trying to get the best game performance.
         * This will just make the game a bit sharper over High. 
         * High is **much** sharper than Low. 
 
-## To Do:
-
-* Pausing to remember your roaming objectives
-* Inventory & Codex
-* "Free" (except for your time) stuff
-* Game Shop 
-    * Free Stuff
-    * Best buys
-    * Worst buys
-    * Event passes
-* Shops sometimes hide things
-* Hunting for Minions
+[[🡅 up to Index](./0-Pages.md)]
