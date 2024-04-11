@@ -2,6 +2,12 @@
 
 ## Introduction
 
+This set of information files is for the mobile game 'Knighthood'. 
+
+I go by the name "Hyde" in most online games I play. 
+
+Knighthood + Hyde = KnightHyde. Very original. 
+
 ### What is this for?
 
 There's a number of things I would have done differently from the very start if I'd realized how the game changes around level 40. I'm trying to put those down here to help people from "just starting out" to "what the hell is Mythic gear?". 
