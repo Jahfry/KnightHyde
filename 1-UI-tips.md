@@ -1,5 +1,7 @@
-# KnightHyde
 ![image of a cartoon knight](./images/knighthyde1.256sharp.webp) 
+# KnightHyde 
+
+[[🡅 up to Index](./0-Pages.md)]
 
 ## I. KnightHood UI tips (battery, graphics, other UI items)
 
@@ -9,12 +11,12 @@ Are you on an older or cheaper phone? I am.
 
 These are ideas on trying to get the best game performance.
 
-  > NOTES:
-  > * Intructions in section A are for Android devices. 
-  > * I use a stock Pixel 5.
-  > * Brands like Samsung will change the location of some settings, so you'll need to look around. 
+    NOTES:
+    * Intructions in section A are for Android devices. 
+    * I use a stock Pixel 5.
+    * Brands like Samsung will change the location of some settings, so you'll need to look around. 
 
-* A.1.***Overall FPS improvement:***
+  #### 1. ***Overall FPS improvement:***
   * **Disable sound and music in the game settings**
     * Yes, really, for some reason Knighthood's sound eats a lot of performance. 
     * I leave them off 99% of the time. Don't just turn your phone volume down, disable the sound in game. 
@@ -29,7 +31,7 @@ These are ideas on trying to get the best game performance.
         * ... **NOT** "Clear storage" (I haven't tested that)
 
 
-  #### A.2. ***Battery Saver:***
+  #### 2. ***Battery Saver:***
 
   This is pretty simple. *You want to play longer.* Try these things and see if you can handle the look of the game. It will be a bit choppier and might look out of focus but you should see a 33-50% longer battery on long sessions. 
 
@@ -49,7 +51,7 @@ These are ideas on trying to get the best game performance.
   7. **When done playing for a long while** force-stop the app 
       * long press the game launch icon > `app info (i) > force stop`
 
-  #### A.3. MAX Performance
+  #### 3. MAX Performance
 
   This is the *opposite* of trying to save your battery. But it looks and feels much better. This is for when you aren't playing for long or have AC to keep your charge up. 
 
