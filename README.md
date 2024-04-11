@@ -6,7 +6,7 @@ This repo contains absolutely no code. It's just a lazy way for me to edit some 
 
 If you're here because you play Knighthood, go here to access the info:
 
-**[Introduction](./0-Intro.md)**
+**[Introduction](./00-Intro.md)**
 
 Or if you want to jump straight to the information, there's this:
 
