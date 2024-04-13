@@ -11,10 +11,7 @@ These are some quick tips about things that might not be immediately obvious whe
 
 ---
 
-### C. **"Free" stuff**
-
-
-5. **Store Purchases**
+### **Store Purchases**
 
    *This is even more opionated than the rest of these pages.*
 
@@ -44,7 +41,11 @@ These are some quick tips about things that might not be immediately obvious whe
 
    * **Event Passes**
 
-   These are a mixed bag. However in certain cases they can be very valuable. **IF you are mid-level or higher** to complete various tiers of the events. I'd suggest not spending on these until you're level 35+. Both to make sure you want to keep playing and so that you can accumulate enough points to get better tier rewards. 
+      These are a mixed bag. However in certain cases they can be very valuable. **IF you are mid-level or higher** to complete various tiers of the events. 
+      
+      * I'd suggest not spending on these until you're level 35+. 2 Reasons: 
+         1. to make sure you want to keep playing
+         2. so that you can accumulate enough points to get better tier rewards. 
 
    * **Month long events** (Dark Tor, Troll Hunt, etc)
       * The cheap pass is often the most worth it as you can't access the better rewards without the pass. Look at the rewards for the event and decide. **You can buy these towards the end of an event, too, and get the extra rewards on tiers you've already completed.*
@@ -54,10 +55,7 @@ These are some quick tips about things that might not be immediately obvious whe
       * The rewards from Guild Wars can be intense. 
       * **Example:** the last Guild War gave massive numbers of charms ***IF your guild can control a good portion of the field***. In those cases *it may well be worth it* since getting charms is a long grind later on. I estimate I saved thousands of gems worth of stamina points / gear dismantling in the recent war as we got lucky and were matched against inactive small guilds. 
 
-   **NOTE:** I haven't played long enough to have experience with other deals. 
-
-* Merchants sometimes hide things
-* Hunting for Minions
+   **NOTE:** I haven't played long enough to have experience with other Store deals that might appear. 
 
 ---
 ---

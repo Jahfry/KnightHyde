@@ -43,6 +43,9 @@ If you're working on getting all rewards from a Roaming Monster, you might forge
    * *This can be useful to keep a "Strong" and a "Weak" loadout, for various roaming monsters* 
    * ***Especially once you have Mythic Rift gear*** *as it does not have the 'Magical', 'Ranged', 'Light', 'Heavy' restistances that lower level roaming monster objectives require*
    * **IMPORTANT:** When you **replace** (not rank up / level up) a piece of gear, especially if you dismantle the old one, fix your loadouts that used that piece of gear. 
+
+   ...
+
 2. **Inventory**
 
    Want to know how much of a currency you have, but don't want to go to specific locations?
@@ -51,6 +54,9 @@ If you're working on getting all rewards from a Roaming Monster, you might forge
 
    * *Example:* "how many Arena Crests do I have?" without going to the arena or shops?
    * Even better for currencies that aren't always visible like Laurels and Garlands
+
+   ...
+
 3. **Codex**
 
    See **all** armor, capes, minions, weapons, but *most importantly:* ***Heroes***. 
@@ -70,13 +76,13 @@ If you're working on getting all rewards from a Roaming Monster, you might forge
    **Some** merchants (so far only Guild Merchants) *have more than 1 tab*:
 
    * **Guild Merchant - Guild Relics**
-   * Second tab: *"Communal Relics"*
-   * uses the "Laurel" currency, primarily from Guild Wars
-   * Ignore it until it matters :)
+      * Second tab: *"Communal Relics"*
+      * uses the "Laurel" currency, primarily from Guild Wars
+      * Ignore it until it matters :)
    * **Guild Merchant - The Quartermaster's Lodge**
-   * Second tab: *"Spoils of War"*
-   * uses the "Garland" currency, primarily from Guild Wars
-   * Sells minion food, scrolls, chests, guild hall ornaments, skins, and a very expensive cape (but that will distill for 262K Gold if you ever have a ton of Garland to waste)
+      * Second tab: *"Spoils of War"*
+      * uses the "Garland" currency, primarily from Guild Wars
+      * Sells minion food, scrolls, chests, guild hall ornaments, skins, and a very expensive cape (but that will distill for 262K Gold if you ever have a ton of Garland to waste)
 
 ---
 
@@ -96,7 +102,7 @@ If you're working on getting all rewards from a Roaming Monster, you might forge
 
 ### E. **"Free" stuff**
 
-    There are a few Free things to do regularly in game, some required no time but are a bit hidden:
+There are a few Free things to do regularly in game, some required no time but are a bit hidden:
 
 1. **Hero experience from the Shrine**
 
@@ -110,11 +116,13 @@ If you're working on getting all rewards from a Roaming Monster, you might forge
       * Once you have access to the Karnheim shrine you can complete 25 favors per day
       * **Yes** that's a minimum of ***200 days*** if you complete every favor every day ... so complete as many as you have time and heroes for even if they are max level. 
 
-   It's a bit weird putting the Shrine here in "Free Stuff" instead of it's own page, but, it really is a daily way to get stuff that requires no stamina and little of your time.
+   **NOTES:**
+   * It's a bit weird putting the Shrine here in "Free Stuff" instead of it's own page, but, it really is a daily way to get stuff that requires no stamina and little of your time.
+   * If you're going to be playing the game for a bit and need some of your main heroes for playing instead of the Shrine, *just remember to set up your Shrine favors when you're done playing*. 
+   * Favors started on one day but not completed until the daily reset will not count against the new day. If it is 11:55pm and you need to fire off a favor to deplete your daily favors, go for it. 
 
-   If you're going to be playing the game for a bit and need some of your main heroes for playing instead of the Shrine, *just remember to set up your Shrine favors when you're done playing*. 
+   ...
 
-   **NOTE:** Favors started on one day but not completed until the daily reset will not count against the new day. If it is 11:55pm and you need to fire off a favor to deplete your daily favors, go for it. 
 2. **Mines / Inbox**
 
    You've surely seen these, but it's good to know that various mines complete at different intervals. 
@@ -125,7 +133,10 @@ If you're working on getting all rewards from a Roaming Monster, you might forge
 
    If you need the lower level materials, you can increase the passive mine generation by *clearing out your Inbox multiple times per day*.
 
-   **It's not worth it to try and collect from mines on the world map, just use your Inbox**
+   **It's not worth it to try and collect from mines on the world map, just use your Inbox.**
+
+   ...
+
 3. **Ads**
 
    There are 2 types of Advertisement rewards, and they're purely optional:
@@ -138,6 +149,9 @@ If you're working on getting all rewards from a Roaming Monster, you might forge
    **Ads can be a good source for gold** IF you have the patience to watch them. 
 
    ***Ads can also supremely suck*** when a broken ad is in the mix and you waste your time watching AND can't get the reward. If you see a broken ad more than twice my recommendation is to skip them for a couple of days and try again. I haven't found a way to report broken ads. 
+
+   ...
+
 4. **Free Store Chests**
 
     The game "Shop" (not merchants) will give you free Gold Chests (normally purchased with Gold) and Gem Chests (purchased with gems). 
