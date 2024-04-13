@@ -3,6 +3,8 @@
 
 [[🡅 up to Index](./0-Pages.md)] [[🡆 next: Game UI/Menus](./2-UI.md)]
 
+---
+
 ## II. KnightHood Phone Performance (graphics/sound, battery saver, max performance)
 
     NOTES:
@@ -10,8 +12,9 @@
     * I use a stock Pixel 5.
     * Brands like Samsung will change the location of some settings, so you'll need to look around. 
 
+---
 
-### A. Settings for graphics/music
+### A. ***Settings for graphics/music***
 
 Are you on an older or cheaper phone? I am. 
 
@@ -29,6 +32,8 @@ These are ideas on trying to get smoother game performance.
     * Clear the app's cache 
         * *long press the game launch icon* > `app info > Storage & cache > Clear cache`
         * ... **NOT** "Clear storage" (I haven't tested that)
+
+---
 
 ### B. ***Battery Saver:***
 
@@ -50,6 +55,8 @@ This is pretty simple. *You want to play longer.* Try these things and see if yo
 7. **When done playing for a long while** force-stop the app 
     * *long press the game launch icon* > `app info (i) > force stop`
 
+---
+
 ### C. MAX Performance
 
 This is the *opposite* of trying to save your battery. But it looks and feels much better. This is for when you aren't playing for long or have AC to keep your charge up. 
@@ -63,4 +70,7 @@ This is the *opposite* of trying to save your battery. But it looks and feels mu
     * This will just make the game a bit sharper over High. 
     * High is **much** sharper than Low. 
 
-[[🡅 up to Index](./0-Pages.md)] [[🡆 next: Game UI/Menus](./2-UI.md)]
+---
+---
+
+Knighthyde - [[🡅 up to Index](./0-Pages.md)] [[🡆 next: Game UI/Menus](./2-UI.md)]
