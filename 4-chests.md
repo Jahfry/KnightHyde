@@ -1,7 +1,7 @@
 ![image of a cartoon knight](./images/knighthyde1.256sharp.webp) 
 # KnightHyde 
 
-[[🡅 up to Index](./0-Pages.md)] [[🡄 back: Store Purchases](./3-store-UI.md)] [[🡆 next: Gems](./5-gems.md)]
+[[🡅 up to Index](./0-Pages.md)] [[🡄 back: Store Purchases](./3-store.md)] [[🡆 next: Gems](./5-gems.md)]
 
 ---
 
@@ -80,4 +80,4 @@ The way the Customization Chests provide Gold is:
 ---
 ---
 
-Knighthyde - [[🡅 up to Index](./0-Pages.md)] [[🡄 back: Store Purchases](./4-UI.md)] [[🡆 next: Gems](./5-gems.md)]
+Knighthyde - [[🡅 up to Index](./0-Pages.md)] [[🡄 back: Store Purchases](./3-store.md)] [[🡆 next: Gems](./5-gems.md)]
