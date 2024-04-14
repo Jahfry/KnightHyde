@@ -5,13 +5,11 @@
 
 ---
 
-## I. KnightHood Store Purchases
+## III. KnightHood Store Purchases
 
 These are my opinions. Feel free to ignore. 
 
 If you're a Free player, just go to the [next page](./4-chests.md). 
-
-If you're a whale (ie, you spend money and ignore advice), **also** go to the next page. 
 
 If you're like me and spend a bit and don't want to waste it, read on:
 
@@ -58,8 +56,10 @@ If you're like me and spend a bit and don't want to waste it, read on:
       * The expensive pass with event points is only worth it if you NEED the rewards in tiers you won't be able to unlock before the event is over (or if you have more money than time, vs more time than money). *I generally don't recommend these for middle-of-the-road players who spend a little but not a lot.*
       * **Example:** In the 2024 Troll Hunt event (going on as I write this, a couple of weeks left) starting around level 40 and now at level 53 I've got enough gear that I'll be able to get the final 200,000pt reward **without the expensive 2nd pass**, so I bought the cheap pass for the additional rewards (ie, I didn't need to purchase points to complete the event). 
    * **Weekly Events** (primarly Guild Wars)
-      * The rewards from Guild Wars can be intense. 
-      * **Example:** the last Guild War gave massive numbers of charms ***IF your guild can control a good portion of the field***. In those cases *it may well be worth it* since getting charms is a long grind later on. I estimate I saved thousands of gems worth of stamina points / gear dismantling in the recent war as we got lucky and were matched against inactive small guilds. 
+      * The rewards from Guild Wars can be intensely valuable. 
+      * **Example:** the last Guild War gave massive numbers of charms ***IF your guild can control a good portion of the field***. 
+         * In those cases *it may well be worth it* since getting charms is a long grind later on. 
+         * I estimate I saved thousands of gems worth of stamina points / gear dismantling in the recent war as we got lucky and were matched against inactive small guilds. 
 
    **NOTE:** I haven't played long enough to have experience with other Store deals that might appear. 
 

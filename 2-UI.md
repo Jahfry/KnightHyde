@@ -4,7 +4,7 @@
 
 ---
 
-## I. KnightHood Game UI (in-game menus and tips)
+## II. KnightHood Game UI (in-game menus and tips)
 
 These are some quick tips about things that might not be immediately obvious when playing. 
 

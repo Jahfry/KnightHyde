@@ -5,63 +5,77 @@
 
 ---
 
-## IV. KnightHood Store Purchases
+## IV. Chests in KnightHood
 
-These are my opinions. Feel free to ignore. 
+These are tips on how to maximize your Chest loot and Gold. 
 
-If you're a Free player, just go to the [next page](./4-chests.md). 
+If you skipped straight here, make sure to also read the [previous page](./3-store.md) as it covers some on purchasing chests from the Store (or rather, why not to). 
 
-If you're like me and spend a bit and don't want to waste it, read on:
+**NOTE:** I'm not covering picking Roaming Monsters for their specific Chest loot on this page. But I do go into that on the [Roaming Monsters](./6-roaming.md) page later on. 
+
+For a lot more information on Chests, take a look at [the Knighthood Wiki](https://knighthood.wiki.gg/wiki/Chests), which will tell you the odds on reward rarity. 
 
 ---
 
-### **Store Purchases**
+### A. **When to open a Chest**
 
-   *This is even more opionated than the rest of these pages.*
+Most chests you can open right away with no penalty. However SOME chests give a small buff to -1- Chest when opening in bulk. 
 
-   **Don't Buy these things** unless you've got more disposable income than I do:
+The way this works is you can quickly get the rewards from multiple chests at a time. If it gets to the final reward for the bulk chests and none were of the improved rarity, the last chest guarantees the higher reward (meaning if you got a lucky roll with a higher rarity before the last one ... the last one **does not get the increased rarity bonus**).
 
-   * **Chests** ... if they say something like "All legendary shards/items will be X hero/gear", that doesn't mean you'll get legendary rewards. I'm not even convinced it means the chances of better gear are better in these chests. The vast majority of your rewards will be bitter disappointment. 
-   * **Gold** ... the cost of Gold from the Store is **VERY** high. 
-      * Yes, Gold is going to be a major end game roadblock
-      * Figure out how else to farm it (see the Roaming Monsters page for info on Customization Chests and monster objective rewards)
-      * Figure out which heroes you NEED to level (and avoid leveling bad heroes) to save gold
-      * Learn when to Transmute items (and when not to) to save gold
-   * **Skins** ... purely cosmetic, nuff said
+* **Customization Chest** ... drops cosmetics (including capes)
+   * Open 10 at a time to guarantee -1- will be blue/Epic or higher
+   * These are frequently rewards for completing all objectives on the lower level Roaming Monsters
+      * They seem to appear as Roaming Monster awards in batches
+      * I frequently a couple up at a time and then none again for hours
+      * I've seen up to 5 over a 30 minute span of farming Roaming Monsters, often appearing shortly after a previous Customization reward had been killed
+      * See the next section on this page for why you might want to farm these in bulk and save them until you have 10 to open
+* **Equipment Chest** 
+   * Open 10 to guarantee 1 will be blue/Epic
+   * You can get these as rewards for favors in the Shrine of Heroes (may only appear on Realm of Fire and Karnheim favors) and Special Events (the ones that run 1 week or 1 month)
+   * Merchants sell these, but, all 3 of the currencies used for these shops have MUCH better uses until you have EVERYTHING you need (you'll be wanting tons of Cobalt later on, and there are very good Charms, etc for the same currencies). Therefor I can't recommend these as a source for Equipment chests. 
+      * Monster Cave Shop ... 1 from each region for 5 per week
+      * Guild Merchants sell 1 per week
+      * Arena Shop sells 1 per week
+   * You can buy these on the Store, but, yeah, you do you. I wouldn't at least for now. 
+* **Deluxe Equipment Chest**
+   * Basically the same as the Equipment Chest but with a better chance for purple/Legendary and yellow/Unique rewards (1.2% chance for yellow instead of 0.6% ... **still very low**)
+* **Hero Chest**
+   * Open 5 for a guaranteed blue/Epic drop
+   * Also sold by Merchants and given as rewards for Special Events (which is the only way I get them) or sold through the Store.
+   * Since blue/Epic heroes have low Rift power and can't be used in the Dark Onslaught Dungeon ... I generally don't save these up for 5 but that's me not practicing what I preach
+   * I have a full section on [Heroes](./9-heroes.md) that goes into ideas for farming shards apart from these chests
+* **Deluxe Hero Chest
+   * Same as the Hero Chest except higher chance of purple/Legendary and yellow/Unique heroes (again 1.2% vs 0.6%)
+* Hero's Challenge Chest
+   * Opening 5 gives 5 shards for the yellow/Unique hero
+   * These are rare events that run for a week and are not something to think about regularly
+* Event Chest
+   * Opening 5 gives 5 shards of the yellow/Unique event hero of the event (example: for 'Troll Hunt' you'd get 5 shards of Bayani) as well as 1000 event points
+   * If you have the event pass purchased and get to around the 75% completion tier for the event you should get 5 as a reward
 
-   *Items to* ***consider*** *buying:*
+---
 
-   * **Gems** ... if you're playing enough that your Daily/Weekly gems are running out, this can be worth it. **I cover how I spend gems [on this page](./5-spending-gems.md).**
-      * ***IF you're a brand new player*** ... you will see a deal for $4.99 and $9.99 for a bunch of gems. If you're going to buy gems *buy these*. These new player deals go away. And you don't get to buy them **ever again**. *Yes, this is a casino and these are the "free chips"*, just like the majority of F2P mobile games.
-      * **Subscriptions** ... the subscription deals aren't bad. 
-         * They don't auto-renew despite the "subscription" name
-         * They come in slower than the bigger gem purchases since you get some each day of the subscription (along with a chunk up front) 
-         * **Monthly** gives more per money spent than daily (I bought a Monthly during for the last month of grinding to Mythic Rift gear)
-         * I believe you can activate both if you're willing to spend $7.50/week or $30/month, but I haven't tried this
-      * **Goblet/Pile/Sack/Coffer/Cart/Tower** ... these deliver all gems in a single transaction
-         * These are pricey but notice that the $4.99 only gives 270 gems (versus something like 2,000 for the new player deal at $4.99).
-         * *Don't buy these unless you are flat out a whale,* ***but they're better than the Gold prices***.
-         * **EXCEPT:** In the past the 2 biggest gem deals, Cart and Tower, have gone on sale for 80% off (over a year has gone by, so these deals may not repeat). ***IF you see these*** and are wanting a bunch of gems, *these are the deals to get.*
+### B. **Customization Chests for Gold**
 
-   * **Event Passes**
+Customization chests are pretty important for farming Gold (which once you're ranking Heroes past rank 3 becomes a roadblock, see [Heroes](./9-heroes.md)). 
 
-      These are a mixed bag. However in certain cases they can be very valuable. **IF you are mid-level or higher** to complete various tiers of the events. 
-      
-      * I'd suggest not spending on these until you're level 35+. 2 Reasons: 
-         1. to make sure you want to keep playing
-         2. so that you can accumulate enough points to get better tier rewards. 
+The way the Customization Chests provide Gold is:
+   * If you don't have the Customization from opening a chest, you collect it, no gold
+   * If you already have that Customization, it instantly turns into gold 
+      * As little as 625 Gold for green/Rare Ears
+      * As much as 328K Gold for yellow/Unique Hair
+   * Additionally, Customization Chests drop Capes
+      * You can dismantle any Cape for Gold (up to 262K for yellow/Unique) even if you don't have a duplicate
+      * You can store duplicates of the same Cape
+      * Dismantle the ones you won't wear for Gold when you need it
+      * Dismantle the ones you will wear for Gold when you **REALLY** need it
+      * ***BUT*** some yellow/Unique Capes are 1-time-only drops
+         * Example: the 'Blademaster' award for the first time you hit a specific rank in the Arena
+         * Dismantle these only if you won't ever care about it
+         * [This Wiki Page](https://knighthood.wiki.gg/wiki/Customization/Cape) has an incomplete list of sources for all Capes, but does a good job of figuring out if a yellow/Unique Cape is a 1-time drop
+      * There are other sources for Capes (Merchants, game Store) ... I'll let you find these and decide if they're worth spending on to get Gold. Sometimes they are, especially at high levels when you don't need other stuff from those currencies
 
-   * **Month long events** (Dark Tor, Troll Hunt, etc)
-      * The cheap pass is often the most worth it as you can't access the better rewards without the pass. Look at the rewards for the event and decide. **You can buy these towards the end of an event, too, and get the extra rewards on tiers you've already completed.*
-      * The expensive pass with event points is only worth it if you NEED the rewards in tiers you won't be able to unlock before the event is over (or if you have more money than time, vs more time than money). *I generally don't recommend these for middle-of-the-road players who spend a little but not a lot.*
-      * **Example:** In the 2024 Troll Hunt event (going on as I write this, a couple of weeks left) starting around level 40 and now at level 53 I've got enough gear that I'll be able to get the final 200,000pt reward **without the expensive 2nd pass**, so I bought the cheap pass for the additional rewards (ie, I didn't need to purchase points to complete the event). 
-   * **Weekly Events** (primarly Guild Wars)
-      * The rewards from Guild Wars can be intensely valuable. 
-      * **Example:** the last Guild War gave massive numbers of charms ***IF your guild can control a good portion of the field***. 
-         * In those cases *it may well be worth it* since getting charms is a long grind later on. 
-         * I estimate I saved thousands of gems worth of stamina points / gear dismantling in the recent war as we got lucky and were matched against inactive small guilds. 
-
-   **NOTE:** I haven't played long enough to have experience with other Store deals that might appear. 
 
 ---
 ---
