@@ -1,13 +1,19 @@
 ![image of a cartoon knight](./images/knighthyde1.256sharp.webp) 
 # KnightHyde 
 
-[[🡅 up to Index](./0-Pages.md)] [[🡄 back: Game UI/Menus](./1-performance.md)] [[🡆 next: Chests](./3-chests.md)]
+[[🡅 up to Index](./0-Pages.md)] [[🡄 back: Game UI/Menus](./2-UI.md)] [[🡆 next: Chests](./4-chests.md)]
 
 ---
 
-## I. KnightHood Game UI (in-game menus and tips)
+## I. KnightHood Store Purchases
 
-These are some quick tips about things that might not be immediately obvious when playing. 
+These are my opinions. Feel free to ignore. 
+
+If you're a Free player, just go to the [next page](./4-chests.md). 
+
+If you're a whale (ie, you spend money and ignore advice), **also** go to the next page. 
+
+If you're like me and spend a bit and don't want to waste it, read on:
 
 ---
 
@@ -28,7 +34,7 @@ These are some quick tips about things that might not be immediately obvious whe
    *Items to* ***consider*** *buying:*
 
    * **Gems** ... if you're playing enough that your Daily/Weekly gems are running out, this can be worth it. **I cover how I spend gems [on this page](./5-spending-gems.md).**
-      * ***IF you're a brand new player*** ... you will see a deal for $4.99 and $9.99 for a bunch of gems. If you're going to buy gems *buy these*. These new player deals go away. And you don't get to buy them **ever again**. Yes, this is a casino and these are the "free chips".
+      * ***IF you're a brand new player*** ... you will see a deal for $4.99 and $9.99 for a bunch of gems. If you're going to buy gems *buy these*. These new player deals go away. And you don't get to buy them **ever again**. *Yes, this is a casino and these are the "free chips"*, just like the majority of F2P mobile games.
       * **Subscriptions** ... the subscription deals aren't bad. 
          * They don't auto-renew despite the "subscription" name
          * They come in slower than the bigger gem purchases since you get some each day of the subscription (along with a chunk up front) 
@@ -60,4 +66,4 @@ These are some quick tips about things that might not be immediately obvious whe
 ---
 ---
 
-Knighthyde - [[🡅 up to Index](./0-Pages.md)] [[🡄 back: Game UI/Menus](./1-performance.md)] [[🡆 next: Chests](./3-chests.md)]
+Knighthyde - [[🡅 up to Index](./0-Pages.md)] [[🡄 back: Game UI/Menus](./2-UI.md)] [[🡆 next: Chests](./4-chests.md)]
