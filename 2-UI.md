@@ -1,6 +1,6 @@
 ![image of a cartoon knight](./images/knighthyde1.256sharp.webp) 
 # KnightHyde 
-[[🡅 up to Index](./0-Pages.md)] [[🡄 back: Game UI/Menus](./1-performance.md)] [[🡆 next: Store](./3-store.md)]
+[[🡅 up to Index](./0-Pages.md)] [[🡄 back: Phone Performance](./1-performance.md)] [[🡆 next: Store](./3-store.md)]
 
 ---
 
@@ -172,4 +172,4 @@ There are a few Free things to do regularly in game, some required no time but a
 ---
 ---
 
-Knighthyde - [[🡅 up to Index](./0-Pages.md)] [[🡄 back: Game UI/Menus](./1-performance.md)] [[🡆 next: Store](./3-store.md)]
+Knighthyde - [[🡅 up to Index](./0-Pages.md)] [[🡄 back: Phone Performance](./1-performance.md)] [[🡆 next: Store](./3-store.md)]
