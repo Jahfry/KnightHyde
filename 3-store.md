@@ -7,11 +7,11 @@
 
 ## III. KnightHood Store Purchases
 
-**[Wiki Page](https://knighthood.wiki.gg/wiki/Store)** (for additional info)
+**[Wiki Pag: Store](https://knighthood.wiki.gg/wiki/Store)** (for additional info)
 
 These are my opinions. Feel free to ignore. 
 
-If you're a Free player, just go to the [next page](./4-chests.md). 
+If you're a Free-only player, just go to the [next page](./4-chests.md) (not judging **at all**). 
 
 If you're like me and spend a bit and don't want to waste it, read on:
 

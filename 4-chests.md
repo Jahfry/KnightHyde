@@ -8,7 +8,7 @@
 
 ## IV. Chests in KnightHood
 
-**[Wiki Page](https://knighthood.wiki.gg/wiki/Chests)** (for additional info)
+**[Wiki Page: Chests](https://knighthood.wiki.gg/wiki/Chests)** (for additional info)
 
 These are tips on how to maximize your Chest loot and Gold. 
 

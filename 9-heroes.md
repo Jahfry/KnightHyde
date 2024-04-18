@@ -1,14 +1,14 @@
 ![image of a cartoon knight](./images/knighthyde1.256sharp.webp) 
 # KnightHyde 
 
-[[🡅 up to Index](./0-Pages.md)] [[🡄 back: Gauntlets](./7-gauntlets.md)] [[🡆 next: Heroes](./9-heroes.md)]
+[[🡅 up to Index](./0-Pages.md)] [[🡄 back: Gear](./8-gear.md)] [[🡆 next: Guild Wars](./10-wars.md)]
 
 ---
 ---
 
-## VIII. Gear
+## IX. Heroes
 
-**[Wiki Page](https://knighthood.wiki.gg/wiki/Gauntlets)** (for additional info)
+**[Wiki Page: Heroes](https://knighthood.wiki.gg/wiki/Heroes)** (for additional info)
 
 **NOTE:** The Wiki page linked above has a very handy chart that you can sort to compare all gauntlets as well as to see all unlocking requirements. I'm not going to duplicate every gauntlet. 
 
@@ -148,4 +148,4 @@ I'm not going to cover strategies for every gauntlet below. **Look at each and f
 ---
 ---
 
-Knighthyde - [[🡅 up to Index](./0-Pages.md)] [[🡄 back: Gauntlets](./7-gauntlets.md)] [[🡆 next: Heroes](./9-heroes.md)]
+Knighthyde - [[🡅 up to Index](./0-Pages.md)] [[🡄 back: Gear](./8-gear.md)] [[🡆 next: Guild Wars](./10-wars.md)]

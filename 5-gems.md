@@ -8,7 +8,7 @@
 
 ## V. Gems
 
-**[Wiki Page](https://knighthood.wiki.gg/wiki/Gems)** (for additional info)
+**[Wiki Page: Gems](https://knighthood.wiki.gg/wiki/Gems)** (for additional info)
 
 Gems are a currency that let you play longer, buy things you can't get in game, speed up getting some items, etc. They are earnable in game at a moderate rate. They are also purchasable with real money. 
 

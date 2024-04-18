@@ -32,11 +32,11 @@ There are 4 things to call out even if you're not going to read anything else:
 * III. **[Store Purchases](./3-store.md)** *(what to buy if you're not staying F2P)*
 * IV. **[Chests](./4-chests.md)** *(which to open in bulk, chests for gold)*
 * V. **[Gems](./5-gems.md)** *(just some recommendations)*
-
-TBD:
 * VI. **[Roaming Monsters]()** *(bounties, farming specific rewards)*
 * VII. **[Gauntlets]()** (primer info, low level gauntlet, etc)
 * VIII. **[Gear]()** *(some about regular gear but focusing towards Mythic Rift gear and Charms)*
+
+TBD:
 * IX. **[Heroes]()** *(early heroes, costs, picking a type, farming shards, endgame gear builds)*
 * X. **[Guild Wars]()** *(defend? Minmaxing playtimes, fighting)*
 

@@ -8,7 +8,7 @@
 
 ## VII. Gauntlets
 
-**[Wiki Page](https://knighthood.wiki.gg/wiki/Gauntlets)** (for additional info)
+**[Wiki Page: Gauntlets](https://knighthood.wiki.gg/wiki/Gauntlets)** (for additional info)
 
 **NOTE:** The Wiki page linked above has a very handy chart that you can sort to compare all gauntlets as well as to see all unlocking requirements. I'm not going to duplicate every gauntlet. 
 
