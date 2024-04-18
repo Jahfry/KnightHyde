@@ -4,8 +4,11 @@
 [[🡅 up to Index](./0-Pages.md)] [[🡄 back: Store Purchases](./3-store.md)] [[🡆 next: Gems](./5-gems.md)]
 
 ---
+---
 
 ## IV. Chests in KnightHood
+
+**[Wiki Page](https://knighthood.wiki.gg/wiki/Chests)** (for additional info)
 
 These are tips on how to maximize your Chest loot and Gold. 
 

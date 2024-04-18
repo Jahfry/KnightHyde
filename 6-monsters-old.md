@@ -1,12 +1,12 @@
 ![image of a cartoon knight](./images/knighthyde1.256sharp.webp) 
 # KnightHyde 
 
-[[🡅 up to Index](./0-Pages.md)] [[🡄 back: Gems](./6-monsters.md)] [[🡆 next: Gauntlets](./8-gear.md)]
+[[🡅 up to Index](./0-Pages.md)] [[🡄 back: Gems](./5-gems.md)] [[🡆 next: Gauntlets](./7-gauntlets.md)]
 
 ---
 ---
 
-## VII. Gauntlets
+## VI. Roaming Monsters and Bounties
 
 Bounties and Roaming Monsters are an absolutely critical source of gear and resources.
 
@@ -70,4 +70,4 @@ You can see the possible items a monster will drop by clicking on their chest wh
 ---
 ---
 
-Knighthyde - [[🡅 up to Index](./0-Pages.md)] [[🡄 back: Gems](./6-monsters.md)] [[🡆 next: Gauntlets](./8-gear.md)]
+Knighthyde - [[🡅 up to Index](./0-Pages.md)] [[🡄 back: Gems](./5-gems.md)] [[🡆 next: Gauntlets](./7-gauntlets.md)]
