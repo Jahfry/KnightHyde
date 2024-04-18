@@ -8,6 +8,8 @@
 
 ## VI. Roaming Monsters and Bounties
 
+**[Wiki Page](https://knighthood.wiki.gg/wiki/Monsters)** (for additional info)
+
 Bounties and Roaming Monsters are an absolutely critical source of gear and resources.
 
 ---
