@@ -105,7 +105,11 @@ I'm not going to cover strategies for every gauntlet below. **Look at each and f
 
    The reason that lower level (ie, 45 and below) is better to farm Kren in the Monster Caves is because as your Knight levels up their Gauntlet damage goes up each level. *Beyond level 45 even using the Knight's Gauntlet can kill him faster than is optimal.* You can absolutely do this at higher levels, and you'll get a lot of punches while leveling. But if you can get the Maverick Gauntlet earlier without sacrificing anything (except your time and sanity during the Kren farms), all the better. 
 
+   
    *Kren Rockjaw is the perfect punching bag, his ability is a self-heal that also gives him Protection.* The goal is to get to where he can't kill you, and you can choose to kill him when you want. 
+
+   If you didn't start farming Kren Rockjaw before level 50, and you severely overgear him in the Monster Cave, don't fret too much. You can still get hits on him there (about 50% of the perfect number, but that's still around 350 punches per torch). And you'll see Kren and a couple of other punch-sponges in the Rift later on. 
+
 
    * When farming punches on Kren, do the highest difficulty that you can keep yourself healed up indefinitely, and punch punch punch
       * If you've completed a difficulty for Kren, **remember you can still pick that lower difficulty if it makes farming more punches easier**

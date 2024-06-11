@@ -33,15 +33,7 @@ You might "need" these "answers" if you are fairly new to Knighthood. Yep, the g
 
 An older gamer guy with too much time on my hands. 
 
-I started in Knighthood in Feb 2024 and started this info dump 2 months later. I've only just now hit Karnheim.
-
-* Level 50
-* Mythic boots/helmet/sword 
-* <> 90% of the way to the Mythic shoulders/legs/arms and maybe 80% toward the Axe and Hammer 
-* Acquired the Maverick gauntlet todat
-* Just yesterday cleared all 10 floors of the first Onslaught Dungeon
-* zero Unique (yellow) heroes or charms so far
-* I've just about caught up with the other friends in my guild so we're all still under level 60 without having cleared the end zones
+I started in Knighthood in Feb 2024 and started this info dump 2 months later. In the time since writing this repo I went from level 50 in Karnheim to 61 in Atlantica. 
 
 *NOTE: I'm not 100% Free to Play as I have bought around $25 worth of gems and a couple of the better event passes ... but ... I am no whale and will be trying to give tips anyone can accomplish*
 
